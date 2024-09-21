@@ -1,7 +1,5 @@
 # 💫 About Me:
 🌱 Exploring the intersection of technology, finance, and startups.<br>
-🔭 Building side projects on full-stack development.<br>
-🤔 Looking to collaborate on open-source and full-stack projects.</br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
