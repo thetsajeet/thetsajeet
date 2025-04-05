@@ -17,8 +17,19 @@ Data Science: ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=
 Others:![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=blue) ![Vim](https://img.shields.io/badge/vim-%23F05033.svg?style=for-the-badge&logo=vim&logoColor=white) ![Vim](https://img.shields.io/badge/linux-%23FF9900.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thetsajeet) 
+- [LinkedIn](https://www.linkedin.com/in/thetsajeet/)
+- [Portfolio](https://tsajeet.vercel.app/)
+- [Leetcode](https://leetcode.com/u/thetsajeet/)
 
 ## Top Certifications
 
 - [Neo4j Certified Professional](https://graphacademy.neo4j.com/c/47e3b7ef-68d8-47bc-aad3-20e08f30aefb/)
+
+## Currently working on
+
+- [Rege.ai](https://github.com/thetsajeet/rege.ai)
+- [Form Factory](https://github.com/thetsajeet/form-factory)
+
+## My Latest Blogs
+
+> Cooking...
