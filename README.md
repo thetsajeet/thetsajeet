@@ -18,3 +18,7 @@ Others:![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thetsajeet) 
+
+## Top Certifications
+
+- [Neo4j Certified Professional](https://graphacademy.neo4j.com/c/47e3b7ef-68d8-47bc-aad3-20e08f30aefb/)
