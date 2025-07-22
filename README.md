@@ -14,10 +14,6 @@
 - **Cloud**: AWS, Docker, Jenkins, Github Actions, Kubernetes
 - **Others**: Linux, Vim
 
-## Top Certifications
-
-- [Neo4j Certified Professional](https://graphacademy.neo4j.com/c/47e3b7ef-68d8-47bc-aad3-20e08f30aefb/)
-
 ## Currently working on
 
 - [Rege.ai](https://github.com/thetsajeet/rege.ai)
@@ -31,3 +27,12 @@
 - [LinkedIn](https://www.linkedin.com/in/thetsajeet/)
 - [Portfolio](https://tsajeet.vercel.app/)
 - [Leetcode](https://leetcode.com/u/thetsajeet/)
+
+## Top Certifications
+
+- [Neo4j Certified Professional](https://graphacademy.neo4j.com/c/47e3b7ef-68d8-47bc-aad3-20e08f30aefb/)
+
+## Badges
+
+<img width="100" height="100" alt="crud-operations-in-mongodb" src="https://github.com/user-attachments/assets/7b40a5e3-242f-42d7-80f5-1891b4bba230" />
+
