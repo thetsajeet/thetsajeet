@@ -35,4 +35,5 @@
 ## Badges
 
 <img width="100" height="100" alt="crud-operations-in-mongodb" src="https://github.com/user-attachments/assets/7b40a5e3-242f-42d7-80f5-1891b4bba230" />
+<img width="100" height="100" alt="data_streaming_engineer" src="https://github.com/user-attachments/assets/cfb212a8-a593-4ce0-9692-0de91db9a3c0" />
 
