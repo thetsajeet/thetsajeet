@@ -24,6 +24,7 @@
 1. [Hello World](https://tsajeet.vercel.app/blogs/hello-world-001)
 
 ## 🌐 Socials:
+- [Credly](https://www.credly.com/users/ajeet-t-s/badges#credly)
 - [LinkedIn](https://www.linkedin.com/in/thetsajeet/)
 - [Portfolio](https://tsajeet.vercel.app/)
 - [Leetcode](https://leetcode.com/u/thetsajeet/)
